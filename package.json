@@ -1,0 +1,13 @@
+{
+    "name": "nx-watcher",
+    "type": "module",
+    "scripts": {
+        "watch": "node src/index.js"
+    },
+    "dependencies": {
+        "chokidar": "3.5.3"
+    },
+    "devDependencies": {
+        "@types/chokidar": "2.1.3"
+    }
+}
